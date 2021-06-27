@@ -1,0 +1,18 @@
+Grammar and types
+	JavaScript is case-sensitive and uses the Unicode character set. For example, the word Früh (which means "early" in German) could be used as a variable name.
+	
+- casesensitive and unicode
+- Variable
+- Constants
+- Variable hoisting
+- Variable scope
+- Global Variable
+	- the global object is window, so you can set and access global variables using the window.variable syntax.
+
+- Function hoisting
+
+
+
+		
+	
+
