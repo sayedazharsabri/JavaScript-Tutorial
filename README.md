@@ -50,3 +50,30 @@ Day 2
 - throw custom error
 - finally Block
 - return from finally will overwrite the return statment of try or catch
+
+Day 3
+=> Loops and iteration
+- problem whithout loop
+- solution with loop
+- for statement
+- do...while statement
+- while statement
+- Difference while and do while
+- In restricted and out restricted
+- labeled statement with Single loop
+- break statement with single loop
+- continue statement with single loop
+- nested loop
+- outer loop
+- Inner loop
+- Program to understand Nested loop.
+- Break stament in inner loop of Nested loop.
+- Break stament in outer loop of Nested loop.
+- Continue statement in inner loop
+- Continue statement in outer loop
+- Labelled statement with break
+- Labelled statement with continue
+- for...in statement - benefit and implementation
+- for...of statement
+- foreach loop 
+
