@@ -77,3 +77,15 @@ Day 3
 - for...of statement
 - foreach loop 
 
+Day 4
+=> Functions
+- Defining functions
+- Function declarations
+- Function expressions
+- How to define function on the basis of condition
+- Calling functions
+- Recursion - factorial function using recursion
+- Three ways for recursion
+- Hoisting of function and function expression
+- Function scope
+- Nested function 

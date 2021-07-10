@@ -1,0 +1,27 @@
+<html>
+	<head></head>
+		
+	<body>
+		<input type="text" id="num1">
+		<input type="text" id="num2">
+		<button id="add">Add</button>
+	<script>
+
+		function add(n1, n2){
+			console.log(n1+n2);
+		}
+		
+		function btnListener(){
+
+			let x = parseInt(document.getElementById('num1').value);
+			let y = parseInt(document.getElementById('num2').value);
+			add(x, y);
+		}
+		
+		let btn = document.getElementById('add');
+		btn.addEventListener('click', btnListener);
+		
+	</script>
+	</body>
+
+</html>
