@@ -89,3 +89,18 @@ Day 4
 - Hoisting of function and function expression
 - Function scope
 - Nested function 
+
+Day 5
+- Nested functions and closures
+- Inner function preserved outer function's scope.
+- Scope and the function stack
+- Preservation of variables
+- Name conflicts in closure
+- Closures
+- Using the arguments object
+- convert arguments to array
+- Function parameters
+- Rest parameters
+- Arrow functions
+- Predefined functions 
+- Default parameters
