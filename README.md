@@ -104,3 +104,35 @@ Day 5
 - Arrow functions
 - Predefined functions 
 - Default parameters
+
+Day 6
+- Expressions and operators
+- Operators
+- Assignment operators
+- Destructuring
+- Comparison operators
+- Arithmetic operators
+- Bitwise operators
+- Logical operators
+- Short-circuit evaluation
+- String operators
+- Conditional (ternary) operator
+- Comma operator
+- to hanlde multiple values in one loop
+- Unary operators
+- delete
+- typeof
+- void
+- Relational operators
+- in
+- instanceof
+- Expressions
+- Arithmetic
+- String
+- Logical
+- Primary expressions
+- this
+- Grouping operator
+- Left-hand-side expressions
+- new
+- super
