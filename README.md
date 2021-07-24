@@ -136,3 +136,19 @@ Day 6
 - Left-hand-side expressions
 - new
 - super
+
+Day 7
+- Numbers and dates
+- Decimal numbers
+- Binary numbers
+- Octal numbers
+- Hexadecimal numbers
+- Exponentiation
+- Number object
+- Properties of Number
+- Methods of Number
+- Math object
+- Methods of Math
+- Date object
+- Methods of the Date object
+- Created a Digital clock function
