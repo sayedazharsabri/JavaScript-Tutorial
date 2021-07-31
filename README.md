@@ -152,3 +152,28 @@ Day 7
 - Date object
 - Methods of the Date object
 - Created a Digital clock function
+
+Day 8
+- Text formatting
+- String literals
+- Hexadecimal escape sequences => '\x7A'
+- Unicode escape sequences => '\u007A'
+- String objects
+- charAt
+- indexOf, 
+- lastIndexOf
+- startsWith, 
+- endsWith, 
+- includes
+- concat
+- split
+- slice
+- substring, - end indexes
+- substr - num char
+- replace, 
+- replaceAll,
+- toLowerCase, 
+- toUpperCase
+- trim
+- Multi-line template literals
+- Embedded expressions
