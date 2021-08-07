@@ -177,3 +177,45 @@ Day 8
 - trim
 - Multi-line template literals
 - Embedded expressions
+
+Day 9
+- Regular expressions
+- Creating a regular expression
+- Writing a regular expression pattern
+- Using regular expressions in JavaScript
+- exec()
+- test()	
+- search()
+- replace()
+- replaceAll()
+- split()
+- https://regex101.com/
+
+
+Indexed collections
+- Array object
+- Creating an array
+- Referring to array elements
+- Populating an array
+- Understanding length
+- Iterating over arrays
+- Array methods
+- concat() 
+- join
+- push()
+- pop() 
+- shift()
+- unshift()
+- slice
+- splice
+- reverse() 
+- sort() 
+- indexOf
+- lastIndexOf 
+- forEach
+- map
+- filter
+- every
+- some
+- reduce
+- Multi-dimensional arrays
