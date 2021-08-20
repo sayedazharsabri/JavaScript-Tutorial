@@ -219,3 +219,34 @@ Indexed collections
 - some
 - reduce
 - Multi-dimensional arrays
+
+Day 10
+- Keyed collections
+- Maps
+- Map object
+- Object and Map compared
+- WeakMap object
+- 
+- Sets
+- Set object
+- Converting between Array and Set
+- Array and Set compared
+- WeakSet Sets object
+- 
+- Working with objects
+- Objects overview
+- Objects and properties
+- Enumerate the properties of an object
+- Creating new objects
+- Using object initializers
+- Using a constructor function
+- Using the Object.create method
+- Inheritance
+- Indexing object properties
+- Defining properties for an object type
+- Defining methods
+- Using this for object references
+- Defining getters and setters
+- Deleting properties
+- Comparing objects
+
