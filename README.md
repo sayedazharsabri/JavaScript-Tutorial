@@ -274,3 +274,12 @@ Day 11
 - Multiple callbacks may be added by calling then() several times. They will be invoked one after another, in the order in which they were inserted.
 - Explained with examples
 
+Day 12
+- Iterators and generators
+- Iterators
+- Generator functions
+- Iterables
+- User-defined iterables
+- Hands on Iterators with example
+- Hands on Generators with example
+
