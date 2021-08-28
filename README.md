@@ -283,3 +283,13 @@ Day 12
 - Hands on Iterators with example
 - Hands on Generators with example
 
+Project: Implementation and use - Browser side JavaScript
+- HTML Page creation.
+- Adding CSS to HTML.
+- Adding JavaScript to HTML page.
+- Button, input box, div.
+- Created tag(element) at run time.
+- Added class and Id to newly created element.
+- Moved element from one place to another on a page.
+- Destroyed element on runtime.
+- Discussed about more changes in this, please watch video on https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1 in playlist JavaScript from Scratch 
