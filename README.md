@@ -250,3 +250,27 @@ Day 10
 - Deleting properties
 - Comparing objects
 
+Day 11
+- Class-based vs. prototype-based languages
+- Example of class and object in class based language
+- Definition of both
+- Class-based vs. prototype-based languages
+- Adding properties
+- Inherit object from object
+- Adding constructor of child
+- Using call() for inheritence
+- Understanding inheritance in JavaScript
+- Using Promises
+- callbacks
+- Promise
+- Callback vs Promise with example explanation
+- Watching how and what promise returns
+- understanding error throw from promise
+- understanding resolve and reject
+- Promise Chaining
+- Understanding the promise in Eventloop .
+- multiple then
+- Callbacks added with then() will never be invoked before the completion of the current run of the JavaScript event loop.
+- Multiple callbacks may be added by calling then() several times. They will be invoked one after another, in the order in which they were inserted.
+- Explained with examples
+
